@@ -77,8 +77,8 @@ Enter GOAL  (x y) in mm, origin at bottom-left:  175 25
 
 ```
 ENPM661_Project02/
-├── BW-BFS_firstname_lastname.py        # Backward BFS implementation
-├── BW-dijkstra_firstname_lastname.py   # Backward Dijkstra implementation
+├── BW-BFS_SyedYashal_Ahmed.py        # Backward BFS implementation
+├── BW-dijkstra_SyedYashal_Ahmed.py   # Backward Dijkstra implementation
 ├── bfs_SYA8393.mp4                     # BFS animation video (generated on run)
 ├── dijkstra_SYA8393.mp4                # Dijkstra animation video (generated on run)
 └── README.md
